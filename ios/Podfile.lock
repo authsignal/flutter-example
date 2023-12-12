@@ -1,0 +1,29 @@
+PODS:
+  - Authsignal (0.2.0)
+  - authsignal_flutter (0.0.2):
+    - Authsignal (= 0.2.0)
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - authsignal_flutter (from `.symlinks/plugins/authsignal_flutter/ios`)
+  - Flutter (from `Flutter`)
+
+SPEC REPOS:
+  trunk:
+    - Authsignal
+
+EXTERNAL SOURCES:
+  authsignal_flutter:
+    :path: ".symlinks/plugins/authsignal_flutter/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  Authsignal: 7ee10b064ad347e66c54b4fa72e8a1f936b9f273
+  authsignal_flutter: d71c5586e30f646c3e72fc9b17539a34a1972802
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+
+PODFILE CHECKSUM: ade96bceabe3919b69c16573938e4268fe3a6c9d
+
+COCOAPODS: 1.14.2
